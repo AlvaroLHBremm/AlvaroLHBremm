@@ -1,15 +1,10 @@
 # Álvaro L.H. Bremm  
 
 [![Controlador](https://img.shields.io/badge/Faculdade-Eletrônica_Industrial-orange.svg)](#) <br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js,php,mysql,nodejs,cpp,cmake,eclipse,qt&perline=3" />
-  </a>
-</p>
 
 ### Sumário
+
+Formado em CST Eletronica industrial no IFSC de Florianópolis. Busco desenvolver habilidades em desenvolvimento de projetos eletronicos, programação embarcada e programação web frontend e backend.
 
 ## Projetos
 
@@ -30,6 +25,12 @@
 
 ### Arquitetura de processador programável de 8 bits
 - [processador programavel](https://github.com/AlvaroLHBremm/Processador-programavel-de-8-bits) - A short description of the project.
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,js,php,mysql,nodejs,cpp,cmake,eclipse,qt&perline=3" />
+  </a>
+</p>
 
 <!--
 **AlvaroLHBremm/AlvaroLHBremm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
