@@ -1,6 +1,6 @@
 # Álvaro L.H. Bremm  
 
-[![Controlador](https://img.shields.io/badge/Faculdade-Eletrônica_Industrial-orange.svg)](#) [![Controlador](https://img.shields.io/badge/Florianópolis,Santa_Catarina-green.svg)](#) <br>
+[![Controlador](https://img.shields.io/badge/Faculdade-Eletrônica_Industrial-orange.svg)](#) [![Controlador](https://img.shields.io/badge/Local-Florianópolis,Santa_Catarina-green.svg)](#) <br>
 
 ### Sumário
 <br> [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,nodejs)](https://skillicons.dev)
