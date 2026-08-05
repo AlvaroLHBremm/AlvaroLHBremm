@@ -17,7 +17,7 @@
 - [Campo minado](https://github.com/AlvaroLHBremm/Campo-Minado-QTcreator) - A short description of the project. [![My Skills](https://skillicons.dev/icons?i=cpp,qt,cmake)](https://skillicons.dev)
 
 ### Website - Comunicação de dados
-- [Campo minado](https://github.com/AlvaroLHBremm/Nexus-Website) - A short description of the project. [![My Skills](https://skillicons.dev/icons?i=html,js,php,mysql,nodejs)](https://skillicons.dev)
+- [Campo minado](https://github.com/AlvaroLHBremm/Nexus-Website) - A short description of the project. [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,nodejs)](https://skillicons.dev)
 
 ### Planta elétrica industrial
 - [Planta elétrica](https://github.com/AlvaroLHBremm/Planta-eletrica-industrial) - A short description of the project.
