@@ -3,7 +3,6 @@
 [![Controlador](https://img.shields.io/badge/Faculdade-Eletrônica_Industrial-orange.svg)](#) [![Controlador](https://img.shields.io/badge/Local-Florianópolis,Santa_Catarina-green.svg)](#) <br>
 
 ### Sumário
-<br> [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,nodejs)](https://skillicons.dev)
 
 Formado em CST Eletronica industrial no IFSC de Florianópolis. Busco desenvolver habilidades em desenvolvimento de projetos eletronicos, programação embarcada e programação web frontend e backend.
 
@@ -37,7 +36,7 @@ Formado em CST Eletronica industrial no IFSC de Florianópolis. Busco desenvolve
     <img src="https://skillicons.dev/icons?i=html,js,php,mysql,nodejs,cpp,cmake,eclipse,qt&perline=3" />
   </a>
 </p>
-
+<br> [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,nodejs)](https://skillicons.dev)
 <!--
 **AlvaroLHBremm/AlvaroLHBremm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
