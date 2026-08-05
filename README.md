@@ -1,4 +1,4 @@
-<h1 align="center" font-size="32px"></p><img src="figs/DAELN.png" alt="diagrama" width="50px"> Álvaro L.H. Bremm</h1> <p align="right"> 
+<h1 align="center" font-size="32px"></p><img src="figs/DAELN.png" padding-top="20px" width="50px"> Álvaro L.H. Bremm</h1> <p align="right"> 
 
 [![Controlador](https://img.shields.io/badge/Faculdade-Eletrônica_Industrial-orange.svg)](#) [![Controlador](https://img.shields.io/badge/Local-Florianópolis,Santa_Catarina-green.svg)](#) <br>
 <!--
