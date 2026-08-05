@@ -9,13 +9,16 @@ Formado em CST Eletronica industrial no IFSC de Florianópolis. Busco desenvolve
 ## Projetos
 
 ### Campo minado em QTcreator e C++
-- [Campo minado](https://github.com/AlvaroLHBremm/Campo-Minado-QTcreator) Projeto de programação orientado a objetos desenvolvido em C++ utilizando framework QTcreator. <br>
+- [ [Campo minado](https://github.com/AlvaroLHBremm/Campo-Minado-QTcreator) ] Projeto de programação orientado a objetos desenvolvido em C++ utilizando framework QTcreator. <br>
 <div style="padding: 20px;">
   <img src="https://skillicons.dev/icons?i=cpp,qt,cmake" />
 </div>
 
 ### Website - Comunicação de dados
 - [Campo minado](https://github.com/AlvaroLHBremm/Nexus-Website) - A short description of the project. [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,nodejs)](https://skillicons.dev)
+<div style="padding: 20px;">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,nodejs" />
+</div>
 
 ### Planta elétrica industrial
 - [Planta elétrica](https://github.com/AlvaroLHBremm/Planta-eletrica-industrial) - A short description of the project.
