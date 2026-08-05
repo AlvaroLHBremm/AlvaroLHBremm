@@ -3,6 +3,12 @@
 [![Controlador](https://img.shields.io/badge/Faculdade-Eletrônica_Industrial-orange.svg)](#) <br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,js,php,mysql,nodejs,cpp,cmake,eclipse,qt&perline=3" />
+  </a>
+</p>
+
 ### Sumário
 
 ## Projetos
