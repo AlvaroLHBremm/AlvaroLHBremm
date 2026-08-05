@@ -14,9 +14,9 @@
 ## Projetos
 
 ### Campo minado em QTcreator e C++
-- [Campo minado](https://github.com/AlvaroLHBremm/Campo-Minado-QTcreator)
-  A short description of the project.
-  [![My Skills](https://skillicons.dev/icons?i=cpp,qt,cmake)](https://skillicons.dev)
+- [Campo minado](https://github.com/AlvaroLHBremm/Campo-Minado-QTcreator) <br>
+A short description of the project. <br>
+[![My Skills](https://skillicons.dev/icons?i=cpp,qt,cmake)](https://skillicons.dev)
 
 ### Website - Comunicação de dados
 - [Campo minado](https://github.com/AlvaroLHBremm/Nexus-Website) - A short description of the project. [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,nodejs)](https://skillicons.dev)
