@@ -11,13 +11,13 @@ Formado em CST Eletronica industrial no IFSC de Florianópolis. Busco desenvolve
 
 ### Campo minado em QTcreator e C++
 - [ [Campo minado](https://github.com/AlvaroLHBremm/Campo-Minado-QTcreator) ] Projeto de programação orientado a objetos desenvolvido em C++ utilizando framework QTcreator. <br>
-<div style="padding: 20px;">
+<div style="padding: 20px 50px;">
   <img src="https://skillicons.dev/icons?i=cpp,qt,cmake" />
 </div>
 
 ### Website - Comunicação de dados
 - [Website Nexus](https://github.com/AlvaroLHBremm/Nexus-Website) - A short description of the project. 
-<div style="padding: 20px;">
+<div style="padding: 20px 150px;">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,nodejs" />
 </div>
 
@@ -28,7 +28,7 @@ Formado em CST Eletronica industrial no IFSC de Florianópolis. Busco desenvolve
 - [[Automação CLP](https://github.com/AlvaroLHBremm/Processo-de-acionamento-e-automacao-via-CLP)] - Deenvolvimento e programação CLP de processos de acionamentos industriais
 
 ### Arquitetura de processador programável de 8 bits
-- [processador programavel](https://github.com/AlvaroLHBremm/Processador-programavel-de-8-bits) - Projeto pessoal desenvolvido no simulador Deeds com o objetivo de simular a arquitetura de um processador hipotético de 8 bits. 
+- [[![Controlador](https://img.shields.io/badge/Processador_Programavel-orange.svg)](#)](https://github.com/AlvaroLHBremm/Processador-programavel-de-8-bits) - Projeto pessoal desenvolvido no simulador Deeds com o objetivo de simular a arquitetura de um processador hipotético de 8 bits. 
 
 <p align="center">
   <a href="https://skillicons.dev">
