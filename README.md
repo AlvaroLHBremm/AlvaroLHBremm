@@ -7,7 +7,7 @@
 ## Projetos
 
 ### Campo minado em QTcreator e C++
-- [Campo minado](/alvaroLHbremm/campo-minado-qtcreator) - A short description of the project.
+- [Campo minado](/AlvaroLHBremm/Campo-Minado-QTcreator) - A short description of the project.
 
 - ### Campo minado em QTcreator e C++
 - [Campo minado](/alvaroLHbremm/planta-eletrica-industrial) - A short description of the project.
