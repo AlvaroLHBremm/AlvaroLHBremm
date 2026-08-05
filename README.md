@@ -3,6 +3,7 @@
 [![Controlador](https://img.shields.io/badge/Faculdade-Eletrônica_Industrial-orange.svg)](#) <br>
 
 ### Sumário
+<br> [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,nodejs)](https://skillicons.dev)
 
 Formado em CST Eletronica industrial no IFSC de Florianópolis. Busco desenvolver habilidades em desenvolvimento de projetos eletronicos, programação embarcada e programação web frontend e backend.
 
@@ -15,7 +16,7 @@ Formado em CST Eletronica industrial no IFSC de Florianópolis. Busco desenvolve
 </div>
 
 ### Website - Comunicação de dados
-- [Campo minado](https://github.com/AlvaroLHBremm/Nexus-Website) - A short description of the project. [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,nodejs)](https://skillicons.dev)
+- [Campo minado](https://github.com/AlvaroLHBremm/Nexus-Website) - A short description of the project. 
 <div style="padding: 20px;">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,nodejs" />
 </div>
