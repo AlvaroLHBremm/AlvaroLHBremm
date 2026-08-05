@@ -17,9 +17,9 @@ Formado em CST Eletronica industrial no IFSC de Florianópolis. Busco desenvolve
 
 ### Website - Comunicação de dados
 - [Website Nexus](https://github.com/AlvaroLHBremm/Nexus-Website) - A short description of the project. 
-<div style="padding: 20px 150px;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,nodejs" />
-</div>
+    <div style="padding: 20px 150px;">
+        <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,nodejs" />
+    </div>
 
 ### Planta elétrica industrial
 - [Planta elétrica](https://github.com/AlvaroLHBremm/Planta-eletrica-industrial) - Projeto acadêmico da disciplina Maquina e Acionamentos, desenvolvimento utilizando FreeCAD. Trata-se de uma planta elétrica industrial e comercial completa, incluindo quadro de cargas, dimensionamento de circuitos e dispositivos de proteção, com foco em aplicações industriais.
