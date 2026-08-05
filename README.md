@@ -14,7 +14,10 @@
 ## Projetos
 
 ### Campo minado em QTcreator e C++
-- [Campo minado](https://github.com/AlvaroLHBremm/Campo-Minado-QTcreator) Projeto de programação orientado a objetos desenvolvido em C++ utilizando framework QTcreator. . <br>
+- [Campo minado](https://github.com/AlvaroLHBremm/Campo-Minado-QTcreator) Projeto de programação orientado a objetos desenvolvido em C++ utilizando framework QTcreator. <br>
+<div style="padding: 20px;">
+  <img src="https://skillicons.dev/icons?i=html,js,php,mysql,nodejs,cpp,cmake,eclipse,qt&perline=3" />
+</div>
 [![My Skills](https://skillicons.dev/icons?i=cpp,qt,cmake)](https://skillicons.dev)
 
 ### Website - Comunicação de dados
