@@ -1,6 +1,6 @@
 # Álvaro L.H. Bremm  
 
-[![Controlador](https://img.shields.io/badge/Faculdade-Eletrônica_Industrial-orange.svg)](#)
+[![Controlador](https://img.shields.io/badge/Faculdade-Eletrônica_Industrial-orange.svg)](#) <br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ### Sumário
@@ -10,14 +10,14 @@
 ### Campo minado em QTcreator e C++
 - [Campo minado](https://github.com/AlvaroLHBremm/Campo-Minado-QTcreator) - A short description of the project.
 
-- ### Planta elétrica industrial
-- [Campo minado](https://github.com/AlvaroLHBremm/Planta-eletrica-industrial) - A short description of the project.
+### Planta elétrica industrial
+- [Planta elétrica](https://github.com/AlvaroLHBremm/Planta-eletrica-industrial) - A short description of the project.
 
-- ### Processo de acionamento e automação via CLP
-- [Campo minado]([/alvaroLHbremm/aampo-minado-qtcreator](https://github.com/AlvaroLHBremm/Processo-de-acionamento-e-automacao-via-CLP)) - A short description of the project.
+### Processo de acionamento e automação via CLP
+- [Automação CLP](https://github.com/AlvaroLHBremm/Processo-de-acionamento-e-automacao-via-CLP) - A short description of the project.
 
-- ### Arquitetura de processador programável de 8 bits
-- [Campo minado]([/alvaroLHbremm/aampo-minado-qtcreator](https://github.com/AlvaroLHBremm/Processador-programavel-de-8-bits)) - A short description of the project.
+### Arquitetura de processador programável de 8 bits
+- [processador programavel](https://github.com/AlvaroLHBremm/Processador-programavel-de-8-bits) - A short description of the project.
 
 <!--
 **AlvaroLHBremm/AlvaroLHBremm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
