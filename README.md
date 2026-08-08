@@ -17,7 +17,7 @@ Formado em CST Eletronica industrial no IFSC de Florianópolis. Busco desenvolve
 -->
 ### Website - Comunicação de dados
 - [Website Nexus](https://github.com/AlvaroLHBremm/Nexus-Website) - Website desenvolvido para disponibilizar os dados do projeto de `Comunicação de dados` na web.
-  <!--
+<!--
     <div style="padding: 0;">
         <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,nodejs" />
     </div>
