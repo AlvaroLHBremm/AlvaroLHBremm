@@ -35,5 +35,5 @@ Formado em CST Eletronica industrial no IFSC de Florianópolis. Busco desenvolve
 - [projeto](https://github.com/AlvaroLHBremm/Termometro-digital) - Termômetro digital desenvolvido durante a disciplina de `Instrumentação analógica`.
 
 ### Desenvolvimento de PCI
-- [projeto]https://github.com/AlvaroLHBremm/Desenvolvimento-de-PCB) - 
+- [projeto](https://github.com/AlvaroLHBremm/Desenvolvimento-de-PCB) - 
 
