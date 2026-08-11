@@ -1,41 +1,84 @@
-<h1 align="center" font-size="32px">
-<p>
-    <img src="figs/DAELN.png" padding-top="20px" width="60px"> 
-    Álvaro L.H. Bremm</h1> 
-</p > 
+<div align="center">
+  <img src="figs/DAELN.png" width="60">
 
-[![Controlador](https://img.shields.io/badge/Faculdade-Eletrônica_Industrial-orange.svg)](#) [![Controlador](https://img.shields.io/badge/Local-Florianópolis,Santa_Catarina-green.svg)](#) <br>
+# Álvaro L. H. Bremm
 
-Tecnólogo em Eletrônica Industrial • Florianópolis, SC
+**Tecnólogo em Eletrônica Industrial • Florianópolis, SC**
+
+</div>
+
+## Sobre mim
+
+Tecnólogo em Eletrônica Industrial pelo Instituto Federal de Santa Catarina (IFSC), com interesse em desenvolvimento de sistemas eletrônicos, sistemas embarcados e software aplicado à eletrônica.
+
+Possuo experiência acadêmica e pessoal com programação C/C++, microcontroladores, automação industrial, desenvolvimento web, circuitos eletrônicos e desenvolvimento de placas de circuito impresso.
+
+## Competências
+
+**Programação:** C, C++, JavaScript e PHP
+**Desenvolvimento Web:** HTML, CSS e MySQL
+**Eletrônica:** circuitos analógicos e digitais, instrumentação eletrônica e desenvolvimento de PCBs
+**Sistemas embarcados e automação:** microcontroladores, CLPs e comunicação industrial
+**Ferramentas:** Git/GitHub, Qt, Deeds, Node-RED e CAD elétrico/eletrônico
 
 ## Projetos
 
-### 1 Campo minado - QTcreator e C++
-- [Campo minado](https://github.com/AlvaroLHBremm/Campo-Minado-QTcreator) - Projeto de `programação orientado a objetos` desenvolvido em C++ utilizando framework QTcreator. <br>
-<!--
-    <div style="padding: 20px 50px;">
-        <img src="https://skillicons.dev/icons?i=cpp,qt,cmake&perline=3" />
-    </div>
--->
-### 2 Website - Comunicação de dados
-- [Website Nexus](https://github.com/AlvaroLHBremm/Nexus-Website) - Website desenvolvido para disponibilizar os dados do projeto de `Comunicação de dados` na web.
+### Processador programável de 8 bits
 
-    <div style="padding: 0;">
-        <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,nodejs" height="50px"/>
-    </div>
-    
-### 3 Planta elétrica industrial
-- [Planta elétrica](https://github.com/AlvaroLHBremm/Planta-eletrica-industrial) - Projeto acadêmico da disciplina `Maquina e Acionamentos`, desenvolvido utilizando FreeCAD. Trata-se de uma planta elétrica industrial e comercial completa, incluindo quadro de cargas, dimensionamento de circuitos e dispositivos de proteção, com foco em aplicações industriais.
+[Ver projeto](https://github.com/AlvaroLHBremm/Processador-programavel-de-8-bits)
 
-### 4 Processo de acionamento e automação via CLP
-- [Automação CLP](https://github.com/AlvaroLHBremm/Processo-de-acionamento-e-automacao-via-CLP) - Desenvolvimento e programação CLP de processos de acionamentos industriais
+Projeto pessoal desenvolvido no simulador Deeds envolvendo a criação de uma arquitetura de processador de 8 bits, incluindo unidade de controle, registradores, memória e conjunto próprio de instruções, capaz de buscar, decodificar e executar instruções de máquina.
 
-### 5 Arquitetura de processador programável de 8 bits
-- [projeto](https://github.com/AlvaroLHBremm/Processador-programavel-de-8-bits) - Projeto pessoal desenvolvido no simulador Deeds com o objetivo de simular a arquitetura de um processador hipotético de 8 bits.
+---
 
-### 6 Termômetro digital
-- [Termômetro digital](https://github.com/AlvaroLHBremm/Termometro-digital) - Termômetro digital desenvolvido durante a disciplina de `Instrumentação analógica`.
+### Nexus — Sistema Web de Monitoramento
 
-### 7  PCB de amplificador de audio
-- [projeto](https://github.com/AlvaroLHBremm/Desenvolvimento-de-PCB) - Desenvolvimento dos processos de design, fabricaçã e montagem de uma pcB para amplificador de audio.
+[Ver projeto](https://github.com/AlvaroLHBremm/Nexus-Website)
 
+Sistema web desenvolvido para disponibilização e monitoramento dos dados de um projeto acadêmico de Comunicação de Dados.
+
+**Tecnologias:** HTML, CSS, JavaScript, PHP e MySQL.
+
+---
+
+### Automação de Processos Industriais com CLP
+
+[Ver projeto](https://github.com/AlvaroLHBremm/Processo-de-acionamento-e-automacao-via-CLP)
+
+Projeto acadêmico envolvendo desenvolvimento e programação de CLP para controle de processos de acionamento industrial.
+
+---
+
+### Planta Elétrica Comercial e Industrial
+
+[Ver projeto](https://github.com/AlvaroLHBremm/Planta-eletrica-industrial)
+
+Projeto desenvolvido na disciplina de Máquinas e Acionamentos, envolvendo elaboração de planta elétrica comercial e industrial, quadro de cargas, dimensionamento de circuitos e especificação de dispositivos de proteção.
+
+---
+
+### PCB para Amplificador de Áudio
+
+[Ver projeto](https://github.com/AlvaroLHBremm/Desenvolvimento-de-PCB)
+
+Desenvolvimento do projeto de uma placa de circuito impresso para um amplificador de áudio, abrangendo posicionamento de componentes, layout, roteamento, processos de fabricação e montagem da PCB.
+
+---
+
+### Campo Minado — C++ e Qt
+
+[Ver projeto](https://github.com/AlvaroLHBremm/Campo-Minado-QTcreator)
+
+Aplicação desktop desenvolvida em C++ utilizando programação orientada a objetos e o framework Qt.
+
+---
+
+### Termômetro Digital
+
+[Ver projeto](https://github.com/AlvaroLHBremm/Termometro-digital)
+
+Projeto acadêmico desenvolvido na disciplina de Instrumentação Eletrônica, envolvendo medição e apresentação digital de temperatura.
+
+## Contato
+
+**GitHub:** [AlvaroLHBremm](https://github.com/AlvaroLHBremm)
