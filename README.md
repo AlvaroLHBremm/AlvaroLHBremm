@@ -17,11 +17,11 @@ Formado em CST Eletronica industrial no IFSC de Florianópolis. Busco desenvolve
 -->
 ### Website - Comunicação de dados
 - [Website Nexus](https://github.com/AlvaroLHBremm/Nexus-Website) - Website desenvolvido para disponibilizar os dados do projeto de `Comunicação de dados` na web.
-<!--
+
     <div style="padding: 0;">
-        <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,nodejs" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,nodejs" height="50px"/>
     </div>
--->
+    
 ### Planta elétrica industrial
 - [Planta elétrica](https://github.com/AlvaroLHBremm/Planta-eletrica-industrial) - Projeto acadêmico da disciplina `Maquina e Acionamentos`, desenvolvido utilizando FreeCAD. Trata-se de uma planta elétrica industrial e comercial completa, incluindo quadro de cargas, dimensionamento de circuitos e dispositivos de proteção, com foco em aplicações industriais.
 
@@ -32,8 +32,8 @@ Formado em CST Eletronica industrial no IFSC de Florianópolis. Busco desenvolve
 - [projeto](https://github.com/AlvaroLHBremm/Processador-programavel-de-8-bits) - Projeto pessoal desenvolvido no simulador Deeds com o objetivo de simular a arquitetura de um processador hipotético de 8 bits.
 
 ### Termômetro digital
-- [projeto](https://github.com/AlvaroLHBremm/Termometro-digital) - Termômetro digital desenvolvido durante a disciplina de `Instrumentação analógica`.
+- [Termômetro digital](https://github.com/AlvaroLHBremm/Termometro-digital) - Termômetro digital desenvolvido durante a disciplina de `Instrumentação analógica`.
 
-### Desenvolvimento de PCI
+### Desenvolvimento de PCB
 - [projeto](https://github.com/AlvaroLHBremm/Desenvolvimento-de-PCB) - 
 
