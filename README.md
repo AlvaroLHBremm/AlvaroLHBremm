@@ -23,7 +23,7 @@ Possuo experiência acadêmica e pessoal com programação C/C++, microcontrolad
 
 ## Projetos
 
-### Processador programável de 8 bits
+### 1 Processador programável de 8 bits
 
 [Ver projeto](https://github.com/AlvaroLHBremm/Processador-programavel-de-8-bits)
 
@@ -31,7 +31,7 @@ Projeto pessoal desenvolvido no simulador Deeds envolvendo a criação de uma ar
 
 ---
 
-### Nexus — Sistema Web de Monitoramento
+### 2 Nexus — Sistema Web de Monitoramento
 
 [Ver projeto](https://github.com/AlvaroLHBremm/Nexus-Website)
 
@@ -41,7 +41,7 @@ Sistema web desenvolvido para disponibilização e monitoramento dos dados de um
 
 ---
 
-### Automação de Processos Industriais com CLP
+### 3 Automação de Processos Industriais com CLP
 
 [Ver projeto](https://github.com/AlvaroLHBremm/Processo-de-acionamento-e-automacao-via-CLP)
 
@@ -49,7 +49,7 @@ Projeto acadêmico envolvendo desenvolvimento e programação de CLP para contro
 
 ---
 
-### Planta Elétrica Comercial e Industrial
+### 4 Planta Elétrica Comercial e Industrial
 
 [Ver projeto](https://github.com/AlvaroLHBremm/Planta-eletrica-industrial)
 
@@ -57,7 +57,7 @@ Projeto desenvolvido na disciplina de Máquinas e Acionamentos, envolvendo elabo
 
 ---
 
-### PCB para Amplificador de Áudio
+### 5 PCB para Amplificador de Áudio
 
 [Ver projeto](https://github.com/AlvaroLHBremm/Desenvolvimento-de-PCB)
 
@@ -65,7 +65,7 @@ Desenvolvimento do projeto de uma placa de circuito impresso para um amplificado
 
 ---
 
-### Campo Minado — C++ e Qt
+### 6 Campo Minado — C++ e Qt
 
 [Ver projeto](https://github.com/AlvaroLHBremm/Campo-Minado-QTcreator)
 
@@ -73,7 +73,7 @@ Aplicação desktop desenvolvida em C++ utilizando programação orientada a obj
 
 ---
 
-### Termômetro Digital
+### 7 Termômetro Digital
 
 [Ver projeto](https://github.com/AlvaroLHBremm/Termometro-digital)
 
