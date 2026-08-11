@@ -1,11 +1,13 @@
-<h1 align="center" font-size="32px"></p><img src="figs/DAELN.png" padding-top="20px" width="60px"> Álvaro L.H. Bremm</h1> <p align="right"> 
+<h1 align="center" font-size="32px">
+<p>
+    <img src="figs/DAELN.png" padding-top="20px" width="60px"> 
+    Álvaro L.H. Bremm</h1> 
+</p > 
 
 [![Controlador](https://img.shields.io/badge/Faculdade-Eletrônica_Industrial-orange.svg)](#) [![Controlador](https://img.shields.io/badge/Local-Florianópolis,Santa_Catarina-green.svg)](#) <br>
-<!--
-### Sumário
 
-Formado em CST Eletronica industrial no IFSC de Florianópolis. Busco desenvolver habilidades em desenvolvimento de projetos eletronicos, programação embarcada e programação web frontend e backend.
--->
+Tecnólogo em Eletrônica Industrial • Florianópolis, SC
+
 ## Projetos
 
 ### 1 Campo minado - QTcreator e C++
