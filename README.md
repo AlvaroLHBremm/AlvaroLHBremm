@@ -15,12 +15,6 @@ Possuo experiência acadêmica e pessoal com programação C/C++, microcontrolad
 
 ## Competências
 
-<br> * <b>Programação:** C, C++, JavaScript e PHP
-<br> * **Desenvolvimento Web:** HTML, CSS e MySQL
-<br> * **Eletrônica:** circuitos analógicos e digitais, instrumentação eletrônica e desenvolvimento de PCBs
-<br> * **Sistemas embarcados e automação:** microcontroladores, CLPs e comunicação industrial
-<br> * **Ferramentas:** Git/GitHub, Qt, Deeds, Node-RED e CAD elétrico/eletrônico
-
 <ul>
   <li><b>Programação:</b> C, C++, JavaScript e PHP</li>
   <li><b>Desenvolvimento Web:</b> HTML, CSS e MySQL</li>
@@ -28,6 +22,8 @@ Possuo experiência acadêmica e pessoal com programação C/C++, microcontrolad
   <li><b>Sistemas embarcados e automação:</b> Microcontroladores, CLPs e comunicação industrial</li>
   <li><b>Ferramentas:</b> Git/GitHub, Qt, Deeds, Node-RED e CAD elétrico/eletrônico</li>
 </ul>
+
+
 ## Projetos
 
 ### 1 - Processador programável de 8 bits
