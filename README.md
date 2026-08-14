@@ -22,11 +22,11 @@ Possuo experiência acadêmica e pessoal com programação C/C++, microcontrolad
 <br> * **Ferramentas:** Git/GitHub, Qt, Deeds, Node-RED e CAD elétrico/eletrônico
 
 <ul>
-  <li><b>Programação:** C, C++, JavaScript e PHP</b></li>
-  <li><b>Desenvolvimento Web:** HTML, CSS e MySQL</b></li>
-  <li><b>Eletrônica:** circuitos analógicos e digitais, instrumentação eletrônica e desenvolvimento de PCBs</b></li>
-  <li><b>Sistemas embarcados e automação:** microcontroladores, CLPs e comunicação industrial</b></li>
-  <li><b>Ferramentas:** Git/GitHub, Qt, Deeds, Node-RED e CAD elétrico/eletrônico</b></li>
+  <li><b>Programação:</b> C, C++, JavaScript e PHP</li>
+  <li><b>Desenvolvimento Web:</b> HTML, CSS e MySQL</li>
+  <li><b>Eletrônica:</b> circuitos analógicos e digitais, instrumentação eletrônica e desenvolvimento de PCBs</li>
+  <li><b>Sistemas embarcados e automação:</b> Microcontroladores, CLPs e comunicação industrial</li>
+  <li><b>Ferramentas:</b> Git/GitHub, Qt, Deeds, Node-RED e CAD elétrico/eletrônico</li>
 </ul>
 ## Projetos
 
