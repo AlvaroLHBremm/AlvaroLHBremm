@@ -15,11 +15,11 @@ Possuo experiência acadêmica e pessoal com programação C/C++, microcontrolad
 
 ## Competências
 
-**Programação:** C, C++, JavaScript e PHP
-**Desenvolvimento Web:** HTML, CSS e MySQL
-**Eletrônica:** circuitos analógicos e digitais, instrumentação eletrônica e desenvolvimento de PCBs
-**Sistemas embarcados e automação:** microcontroladores, CLPs e comunicação industrial
-**Ferramentas:** Git/GitHub, Qt, Deeds, Node-RED e CAD elétrico/eletrônico
+<br> * **Programação:** C, C++, JavaScript e PHP
+<br> * **Desenvolvimento Web:** HTML, CSS e MySQL
+<br> * **Eletrônica:** circuitos analógicos e digitais, instrumentação eletrônica e desenvolvimento de PCBs
+<br> * **Sistemas embarcados e automação:** microcontroladores, CLPs e comunicação industrial
+<br> * **Ferramentas:** Git/GitHub, Qt, Deeds, Node-RED e CAD elétrico/eletrônico
 
 ## Projetos
 
