@@ -21,6 +21,13 @@ Possuo experiência acadêmica e pessoal com programação C/C++, microcontrolad
 <br> * **Sistemas embarcados e automação:** microcontroladores, CLPs e comunicação industrial
 <br> * **Ferramentas:** Git/GitHub, Qt, Deeds, Node-RED e CAD elétrico/eletrônico
 
+<ul>
+  <li>**Programação:** C, C++, JavaScript e PHP</li>
+  <li>**Desenvolvimento Web:** HTML, CSS e MySQL</li>
+  <li>**Eletrônica:** circuitos analógicos e digitais, instrumentação eletrônica e desenvolvimento de PCBs</li>
+  <li>**Sistemas embarcados e automação:** microcontroladores, CLPs e comunicação industrial</li>
+  <li>**Ferramentas:** Git/GitHub, Qt, Deeds, Node-RED e CAD elétrico/eletrônico</li>
+</ul>
 ## Projetos
 
 ### 1 - Processador programável de 8 bits
