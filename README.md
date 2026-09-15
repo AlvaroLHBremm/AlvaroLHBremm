@@ -14,7 +14,7 @@ Tecnólogo em Eletrônica Industrial pelo Instituto Federal de Santa Catarina (I
 Possuo experiência acadêmica e pessoal com programação C/C++, microcontroladores, automação industrial, desenvolvimento web, circuitos eletrônicos e desenvolvimento de placas de circuito impresso.
 
 ## Competências
-
+<!--
 <ul>
   <li><b>Programação:</b> C, C++, JavaScript e PHP</li>
   <li><b>Desenvolvimento Web:</b> HTML, CSS e MySQL</li>
@@ -22,7 +22,7 @@ Possuo experiência acadêmica e pessoal com programação C/C++, microcontrolad
   <li><b>Sistemas embarcados e automação:</b> Microcontroladores, CLPs e comunicação industrial</li>
   <li><b>Ferramentas:</b> Git/GitHub, Qt, Deeds, Node-RED e CAD elétrico/eletrônico</li>
 </ul>
-
+-->
 
 ## Projetos
 
