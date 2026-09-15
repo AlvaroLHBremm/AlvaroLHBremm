@@ -12,9 +12,9 @@
 Tecnólogo em Eletrônica Industrial pelo Instituto Federal de Santa Catarina (IFSC), com interesse em desenvolvimento de sistemas eletrônicos, sistemas embarcados e software aplicado à eletrônica.
 
 Possuo experiência acadêmica e pessoal com programação C/C++, microcontroladores, automação industrial, desenvolvimento web, circuitos eletrônicos e desenvolvimento de placas de circuito impresso.
-
-## Competências
 <!--
+## Competências
+
 <ul>
   <li><b>Programação:</b> C, C++, JavaScript e PHP</li>
   <li><b>Desenvolvimento Web:</b> HTML, CSS e MySQL</li>
